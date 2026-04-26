@@ -79,11 +79,11 @@
 
   <img 
     src="https://github-vercel-deployment-seven.vercel.app/api?username=jery04&show_icons=true&theme=github_dark_dimmed&rank_icon=github" 
-    height="180"
+    height="160"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=jery04&theme=github-dark-dimmed" 
-    height="180"
+    height="160"
   />
 </div>
 
