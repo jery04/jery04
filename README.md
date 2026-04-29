@@ -23,7 +23,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for volunteer work, or simply for an interesting conversation.\
-✉️ &nbsp;You can shoot me an email at jery.rf03@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an [email](https://mail.google.com/mail/?view=cm&fs=1&to=jery.rf03@gmail.com) — I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my CV for more details about me. I’m open to new ideas, opportunities, and collaborations.
 <br>
 
