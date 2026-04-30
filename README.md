@@ -41,7 +41,7 @@
 ### Frameworks & Libraries
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,sklearn,opencv&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,sklearn,opencv,unity&perline=10" />
   </a>
 </p>
 
