@@ -22,9 +22,9 @@
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Havana.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for volunteer work, or simply for an interesting conversation.\
-✉️ &nbsp;You can shoot me an [email](https://mail.google.com/mail/?view=cm&fs=1&to=jery.rf03@gmail.com) — I'll try to respond as soon as I can.\
-📄 Please have a look at my [Curriculum Vitae](https://jery04.github.io/) for more details about me. 
+🌺 &nbsp;Feel free to reach out to me for volunteer work, or simply for an interesting conversation.\
+📬 &nbsp;You can shoot me an [email](https://mail.google.com/mail/?view=cm&fs=1&to=jery.rf03@gmail.com) — I'll try to respond as soon as I can.\
+💼 Please have a look at my [Curriculum Vitae](https://jery04.github.io/) for more details about me. 
 
 <br>
 
